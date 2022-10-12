@@ -1,6 +1,6 @@
 # Mayank Agarwal
 
-This is my personal website
+This is my Personal website
 
 ## Hobbies
 1. Cricket
